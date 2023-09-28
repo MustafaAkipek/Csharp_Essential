@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp {
 
-    class Program {
+    class OOP {
         static void Main(string[] args) {
 
             var std1 = new Student("1111", "Mustafa AKipek", "6/A");
